@@ -1,9 +1,15 @@
 {
+  "license": "MIT",
+  "scripts": {
+    "test": "tsx -r dotenv-override-true/config index.ts"
+  },
   "dependencies": {
-    "@rc-ex/core": "^1.4.2"
+    "@rc-ex/core": "^1.4.2",
+    "@rc-ex/debug": "^1.1.18"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
+    "dotenv-override-true": "^6.2.2",
     "tsx": "^4.19.2"
   }
 }

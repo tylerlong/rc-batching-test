@@ -131,6 +131,11 @@
     axios "^1.7.7"
     qs "^6.13.0"
 
+"@rc-ex/debug@^1.1.18":
+  version "1.1.18"
+  resolved "https://registry.yarnpkg.com/@rc-ex/debug/-/debug-1.1.18.tgz#aa5c910e526d87f52623b966f290f50efa7fbff9"
+  integrity sha512-3fDSZQAeHpPz38MnSnuKpLaI9opPxI/d1cUsE8OxXT9KQXMw2b2K1dK6GpESIE7GXj85gBo8zia6tQReKMSzSQ==
+
 "@types/node@^22.10.5":
   version "22.10.5"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-22.10.5.tgz#95af89a3fb74a2bb41ef9927f206e6472026e48b"
@@ -184,6 +189,11 @@ delayed-stream@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==
+
+dotenv-override-true@^6.2.2:
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/dotenv-override-true/-/dotenv-override-true-6.2.2.tgz#b93d1e38b651566acd58c0668115fcf56cb2e51b"
+  integrity sha512-a8jtuLPLBl6rCWRfGJe+9iNdh0qqU/4b7IZBvzPYlOEx9vCBSF2Mak4xz5J9aX6GzCkIlCHUlTZW4Im+MIJx1g==
 
 dunder-proto@^1.0.1:
   version "1.0.1"
